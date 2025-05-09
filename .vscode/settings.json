@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Alien Invasion Cosmic Shopping Prototype.sln"
+    "dotnet.defaultSolution": "Alien-Invasion-Cosmic-Shopping-Prototype.sln"
 }
